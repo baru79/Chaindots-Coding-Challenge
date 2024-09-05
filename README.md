@@ -140,4 +140,4 @@ La aplicacion se implemento con [Vite](https://vitejs.dev/) y las dependencias m
 
 ### Aplicacion deplegada
 
-A traves del siguiente link se podrá acceder a la aplicación desplegada en [Vercel](https://vercel.com/).
+A traves del siguiente [link](https://chaindots-coding-challenge.vercel.app/) se podrá acceder a la aplicación desplegada en [Vercel](https://vercel.com/).

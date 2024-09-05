@@ -19,6 +19,7 @@ const LoginPage = () => {
   const [inputs, setInputs] = useState<Omit<User, "id">>({
     email: "",
     password: "",
+    dateCreated: "",
   });
 
   const navigate = useNavigate();

@@ -1060,4 +1060,5 @@ export const mockUser = {
   id: "1",
   email: "email@test.com",
   password: "1234",
+  dateCreated: "9/5/2024, 00:00:00 AM GMT-3",
 };
